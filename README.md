@@ -4,8 +4,8 @@
 <small style="font-size: 0.9em; font-family: 'Proxima Nova Alt', sans-serif; text-align: justify;">
 <!-- markdownlint-enable -->
 
-**Term**: Fall 2025  
-**Duration**: October 20th, 2025 – December 21st, 2025  
+**Term**: Spring 2026  
+**Duration**: January 2026 - March 2026  
 
 **Author**: Brittaney Perry-Morgan  
 
